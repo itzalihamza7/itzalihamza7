@@ -77,15 +77,21 @@ I enjoy turning ideas into clean, scalable, and useful products — from fronten
 
 ---
 
-## GitHub Stats
+### 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <span>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=itzalihamza7&theme=rose_pine&hide_border=false" alt="GitHub Streak Stats" width="47%" height="200" />  
+  </span> 
+</p>
 
-![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itzalihamza7&show_icons=true&theme=tokyonight)
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itzalihamza7&layout=compact&theme=tokyonight)
+### 📈 Contribution Graph
 
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itzalihamza7&theme=react-dark&area=true&hide_border=false" alt="Anum Kamal's GitHub Activity Graph" />
+</p>
 
 ---
 
