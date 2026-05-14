@@ -77,7 +77,7 @@ I enjoy turning ideas into clean, scalable, and useful products — from fronten
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Ali's GitHub Stats
 
 <p align="center">
   <span>
@@ -87,7 +87,7 @@ I enjoy turning ideas into clean, scalable, and useful products — from fronten
 
 ---
 
-### 📈 Contribution Graph
+### 📈 Ali's Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=itzalihamza7&theme=react-dark&area=true&hide_border=false" alt="Anum Kamal's GitHub Activity Graph" />
