@@ -66,31 +66,45 @@ I enjoy turning ideas into clean, scalable, and useful products — from fronten
 
 ---
 
-## Featured Projects
+## Certificates
 
-- **Portfolio** — Personal developer portfolio built with JavaScript
-- **BlogApp** — Blog application project
-- **Ecommerce** — Ecommerce website/application
-- **Ewallet** — Wallet-related application
-- **UIRadiance** — UI-focused frontend project
-- **BurgerApp** — Food ordering / burger application
+<p align="left">
+  <a href="https://www.coursera.org/account/accomplishments/records/RANWF6JNQN9S">
+    <img src="https://img.shields.io/badge/Coursera-Artificial%20Intelligence%20Essentials-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera — Artificial Intelligence Essentials" />
+  </a>
+  <br/>
+  <sub>University of Pennsylvania · May 2026</sub>
+</p>
+
+<p align="left">
+  <a href="https://www.hackerrank.com/certificates/04a6fffbf260">
+    <img src="https://img.shields.io/badge/HackerRank-Frontend%20Developer%20(React)-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank — Frontend Developer (React)" />
+  </a>
+  <a href="https://www.hackerrank.com/certificates/29638dec854a">
+    <img src="https://img.shields.io/badge/HackerRank-Software%20Engineer-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank — Software Engineer" />
+  </a>
+</p>
 
 ---
 
-### 📊 Ali's GitHub Stats
+## Featured Projects
 
-<p align="center">
-  <span>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=itzalihamza7&theme=rose_pine&hide_border=false" alt="GitHub Streak Stats" width="47%" height="200" />  
-  </span> 
-</p>
+AI SaaS, agents, and LLM apps from my [GitHub profile](https://github.com/itzalihamza7).
+
+| | Project | Description | Stack |
+| :---: | :--- | :--- | :---: |
+| 🤖 | [**AI-demo-Agent**](https://github.com/itzalihamza7/AI-demo-Agent) | Voice-powered AI agent for autonomous live product demos | `TypeScript` |
+| ⚡ | [**AI_Agent_Demo_NextJS**](https://github.com/itzalihamza7/AI_Agent_Demo_NextJS) | Next.js demo app for building and showcasing AI agents | `Next.js` |
+| 🎨 | [**Creative_AI_Demo_NextJS**](https://github.com/itzalihamza7/Creative_AI_Demo_NextJS) | Creative AI workflow demo built with Next.js | `Next.js` |
+| 📚 | [**Documentation-Chatbot**](https://github.com/itzalihamza7/Documentation-Chatbot) | Documentation chatbot with RAG-style Q&A over docs | `Python` |
+| ▶️ | [**Youtube-Summariser**](https://github.com/itzalihamza7/Youtube-Summariser) | YouTube transcript summarizer powered by BART | `Python` |
 
 ---
 
 ### 📈 Ali's Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itzalihamza7&theme=react-dark&area=true&hide_border=false" alt="Anum Kamal's GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itzalihamza7&theme=react-dark&area=true&hide_border=false" alt="Ali Hamza's GitHub Activity Graph" />
 </p>
 
 ---
