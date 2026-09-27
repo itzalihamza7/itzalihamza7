@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120">
+<rect x="0.5" y="0.5" width="1199" height="119" rx="18" fill="#ffffff" stroke="#e2e6ef"/>
+<text x="40" y="54" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#0f172a" text-anchor="start">Want to know more?</text>
+<text x="40" y="84" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#556074" text-anchor="start">Ask the AI assistant on my portfolio anything about my experience, skills and projects.</text>
+<rect x="910" y="34" width="250" height="52" rx="12" fill="#3b5bdb"/>
+<text x="1035" y="66" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">Ask my AI  →  alihamza.co</text>
+</svg>
